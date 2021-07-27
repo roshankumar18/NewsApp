@@ -1,2 +1,3 @@
 # NewsApp
-![5hq9nf](https://user-images.githubusercontent.com/23401876/127103536-7621257e-030a-4557-a671-1a37d5fac2a3.gif)
+![5hqam5](https://user-images.githubusercontent.com/23401876/127104659-32a2a9ee-2960-4c72-8d62-eef0f0e14ad9.gif)
+
